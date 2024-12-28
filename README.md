@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This code snippet provide a workflow to change theme of a webpage using React-vite and Tailwind's class theme.
 
 Currently, two official plugins are available:
 
