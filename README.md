@@ -1,4 +1,4 @@
-# React + Vite
+# ThemeChanger
 
 This code snippet provide a workflow to change theme of a webpage using React-vite and Tailwind's class theme.
 
